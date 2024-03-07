@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on **several projects and learning new skills.**
 
-- 🌱 I’m currently learning **web development.**
+- 🌱 I’m currently learning **everything :(.**
 
 - 👯 I’m looking to collaborate on **anything!**
 
 - 🤝 I’m looking for help with **anything!**
 
 - 👨‍💻 All of my projects are available at [my profile!](my profile!)
-
-- 💬 Ask me about **c++,python,hockey!**
 
 - 📫 How to reach me **alexanderquarrie@gmail.com**
 
