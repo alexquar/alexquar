@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **anything!**
 
-- 👨‍💻 All of my projects are available at [my profile!](my profile!)
+- 👨‍💻 All of my projects are available here in public repos!
 
 - 📫 How to reach me **alexanderquarrie@gmail.com**
 
