@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **alexanderquarrie@gmail.com**
 
-- Some of my larger projects are public on this profile while my other work is public on my replit account: <a href=https://replit.com/@AlexQuarrie> click here </a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href=https://www.linkedin.com/in/alex-quarrie-81ab3 target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex quarrie" height="30" width="40" /></a>
