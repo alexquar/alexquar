@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Quarrie</h1>
 <h3 align="center">A passionate computer engineering student!</h3>
 
-- 🔭 I’m currently working on **several projects and learning new skills.**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **everything :(.**
 
