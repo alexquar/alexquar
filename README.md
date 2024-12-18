@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **anything!**
 
-- 👨‍💻 All of my projects are available here in public repos! Check out my portfolio <a href="https://alexquarrie.tech/">here</a> for more
+- 👨‍💻 All of my projects are available here in public repos! Check out my portfolio <a href="https://alexquarrie.netlify.app/">here</a> for more
 
 - 📫 How to reach me **alexanderquarrie@gmail.com**
   
