@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alex Quarrie</h1>
 <h3 align="center">A passionate computer engineering student!</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning and Mobile Dev**
 
 - 🌱 I’m currently learning **everything :) .**
 
 - 👯 I’m looking to collaborate on **anything!**
-
-- 🤝 I’m looking for help with **anything!**
 
 - 👨‍💻 All of my projects are available here in public repos! Check out my portfolio <a href="https://alexquarrie.netlify.app/">here</a> for more
 
